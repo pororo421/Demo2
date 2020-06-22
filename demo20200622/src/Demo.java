@@ -9,4 +9,9 @@ public class Demo {
         System.out.println(1236);
         System.out.println(1237);
     }
+    public String getName(String name){
+        return name+"abc";
+        
+    }
+}
 }
