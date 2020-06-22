@@ -18,4 +18,7 @@ public class Demo {
     public  int getAge2(){
         return  123;
     }
+     public  int getID(){
+        return  123;
+    }
 }
