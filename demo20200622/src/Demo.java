@@ -24,4 +24,7 @@ public class Demo {
     public  String getSchooleNum(){
         return  "123";
     }
+    public  String getSchoole3(){
+        return  "123";
+    }
 }
